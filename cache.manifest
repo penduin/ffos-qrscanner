@@ -1,0 +1,33 @@
+CACHE MANIFEST
+# v1.0 - 2013-03-18
+index.html
+qr.css
+qr.js
+LICENSE
+icon16.png
+icon30.png
+icon36.png
+icon48.png
+icon60.png
+icon64.png
+icon256.png
+images/mainsepa.png
+images/qr.png
+images/separator.png
+jsqrcode/alignpat.js
+jsqrcode/datablock.js
+jsqrcode/decoder.js
+jsqrcode/findpat.js
+jsqrcode/gf256poly.js
+jsqrcode/rsdecoder.js
+jsqrcode/bitmat.js
+jsqrcode/databr.js
+jsqrcode/detector.js
+jsqrcode/formatinf.js
+jsqrcode/grid.js
+jsqrcode/version.js
+jsqrcode/bmparser.js
+jsqrcode/datamask.js
+jsqrcode/errorlevel.js
+jsqrcode/gf256.js
+jsqrcode/qrcode.js
